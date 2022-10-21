@@ -10,3 +10,4 @@
 10) Returns the size of the prices list, no error
 11) Discounted prices are pushed to the array 3 times,this array is returned, nothing is printed bcoz no console statement
 12) A)student.name B)student['Grad Year'] C)student.greeting() D)student['Favorite Teacher'].name E)student.courseLoad[0] 
+13) A) '32' Because 3 and 2 are added to each other as stringsB) 1 C) 3 D) '3null' E) 4 F) 0 G) '3undefined' H) NaN
