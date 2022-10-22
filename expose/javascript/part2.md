@@ -14,4 +14,8 @@
 14) A) true because both are treated as numbers as 2 is not in quotes B) false because both are treated as strings as both are in quotes, therefore each character is compared, the first character of 12 (1) is lesser than the first character of 2 (2), therefore false is returned C) true because string is converted to integer and 2 is equal to 2 D) false because this is a strong comparison operator that returns false if the type is different, string is not the same as integer E) false because true is converted to integer (1) and 1 is not equal to 2 F) true because Boolean of any number not equal to 0 is true and true is indeed qual to true
 15) == is a weak equality operator that allows type conversion whereas === does not, the latter returns false if types are not equal\
 17) The result will be the array [2,4,6], this is because here, doSomething is used as a callback which, inside the for loop, multiplies each of the elements inside the array by 2 and returns the modified array. So, [1,2,3] becomes [2,4,6].
-19)  
+19)  Output: 1
+             4
+             3
+             2
+20) 
