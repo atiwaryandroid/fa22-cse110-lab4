@@ -1,1 +1,1 @@
-
+The getElementbyId method was returning a string, so addition was being treated as concatenation of strings. I used a + at the beginning of this method to coerce the string into an integer and then it worked as expected.
